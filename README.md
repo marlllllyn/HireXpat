@@ -14,3 +14,7 @@ HireXpat: Our app links global jobs invites foreign talent to Indonesia. Exclusi
 
 👉 (MD) A120BSY2311 – Muhamad Fajar Nasrulloh 
 
+# Our Path
+Machine Learning
+Cloud Computing
+Mobile Development 
