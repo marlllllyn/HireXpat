@@ -1,4 +1,4 @@
-# HireXpat
+# 🤝HireXpat🤝
 HireXpat: Our app links global jobs invites foreign talent to Indonesia. Exclusively international, it streamlines overseas job searches and provides visa insights. Empowering career leaps, it aligns with our MD, CC, and ML path, connecting talent globally inspired by real-world problems.
 
 # Team Member
