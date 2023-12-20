@@ -18,13 +18,6 @@ Our app links global jobs invites foreign talent to Indonesia. Exclusively inter
 
 
 # Our Path
-Machine Learning 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](Machine Learning) 
-Cloud Computing
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg' alt='postman' height='40'>](Cloud Computing)  
-Mobile Development 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='40'>](Mobile Development) 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](Machine Learning)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='40'>](Mobile Development)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg' alt='postman' height='40'>](Cloud Computing)  
 
 
