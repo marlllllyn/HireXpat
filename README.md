@@ -30,7 +30,7 @@ A dedicated effort to empower and support expatriates in their international car
 # Data 🗂
 The data used to train and test the model consist of two datasets, which are **data_company.csv** and **users (1).csv**. The data_company.csv data includes eight different attributes: ID_company, name, email, country, provinces, industry, position_available, and description. The users (1).csv data includes two different attributes: description and label. The data was splitted into training and testing sets following 90:10 ratio.
 
-# The model used for this application 💻
+# The model used for this application 📲
 The model architecture consists of a Bag of Words representation using CountVectorizer and a Multinomial Naive Bayes classifier. The dataset used to train the model was divided into input (Description) and output (Label). The data is preprocessed by converting to lowercase, removing punctuation, and applying bag-of-words encoding. After all of the training and testing process of the model was done, the accuracy of the model is evaluated using the test set, and it achieved an accuracy of 91.67%.
 
 
