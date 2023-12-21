@@ -28,7 +28,7 @@ Introducing HireXpat, an innovative mobile application aimed at addressing the c
 A dedicated effort to empower and support expatriates in their international careers, providing invaluable assistance, guidance, and resources to help them navigate challenges and make informed decisions.
 
 # Data 🗂
-The data used to train and test the model consist of two datasets, which are **data_company.csv** and **users (1).csv**. The data_company.csv data includes eight different attributes: ID_company, name, email, country, provinces, industry, position_available, and description. The users (1).csv data includes two different attributes: description and label. The data was splitted into training and testing sets following 90:10 ratio.
+The data used to train and test the model consist of three datasets, which are **data_company.csv**, **users (1).csv**, and **buattrain.csv**. The data_company.csv data includes eight different attributes: ID_company, name, email, country, provinces, industry, position_available, and description. The users (1).csv data includes two different attributes: description and label. The buattrain.csv data includes two different attributes: description and label. The users (1).csv data and buattrain.csv has the same attributes but with different contents. Spesifically, the buattrain.csv data was used to train and test the model to make sure that the user's description align with the company's label. The data was splitted into training and testing sets following 90:10 ratio.
 
 # The model used for this application 📲
 The model architecture consists of a Bag of Words representation using CountVectorizer and a Multinomial Naive Bayes classifier. The dataset used to train the model was divided into input (Description) and output (Label). The data is preprocessed by converting to lowercase, removing punctuation, and applying bag-of-words encoding. After all of the training and testing process of the model was done, the accuracy of the model is evaluated using the test set, and it achieved an accuracy of 91.67%.
@@ -55,10 +55,15 @@ This application used a model for text classification with Naive Bayes using Sci
 
 👉 (CC)  C009BSY4317 – Muhamad Ramdani  
 
+  👩‍💼[LinkedIn](https://www.linkedin.com/in/mramdanii)
+
 👉 (CC)  C009BSY3634 – Rafly Akval Caesar Fadillah 
 
+  👩‍💼[LinkedIn](https://www.linkedin.com/in/rafly-akval/)
+  
 👉 (MD) A120BSY2311 – Muhamad Fajar Nasrulloh 
 
+  👩‍💼[LinkedIn](https://www.linkedin.com/in/fajarnasrullah)
 
 
 # Our Paths and Documentation
