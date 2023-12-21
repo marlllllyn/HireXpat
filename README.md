@@ -66,13 +66,13 @@ This application used a model for text classification with Naive Bayes using Sci
   👩‍💼[LinkedIn](https://www.linkedin.com/in/fajarnasrullah)
 
 
-# Our Paths and Documentation
+# Our Paths and Documentation 📂
 Here is the list of our paths and its relevant documentation link:
-## Machine Learning
+## ⚙️ Machine Learning 
 [Machine Learning Documentation](https://github.com/marlllllyn/HireXpat/tree/62101fa313bc40c07e6516b998c0152978da48f2/Machine%20Learning)
-## Mobile Development
+## 📱 Mobile Development 
 [Mobile Development Documentation](https://github.com/marlllllyn/HireXpat/tree/62101fa313bc40c07e6516b998c0152978da48f2/Mobile%20Development)
-## Cloud Computing
+## 🔗 Cloud Computing 
 [Cloud Computing Documentation](https://github.com/marlllllyn/HireXpat/tree/62101fa313bc40c07e6516b998c0152978da48f2/Cloud%20Computing)
 
 
