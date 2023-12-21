@@ -55,15 +55,15 @@ This application used a model for text classification with Naive Bayes using Sci
 
 👉 (CC)  C009BSY4317 – Muhamad Ramdani  
 
-  👩‍💼[LinkedIn](https://www.linkedin.com/in/mramdanii)
+  👨🏾‍💼[LinkedIn](https://www.linkedin.com/in/mramdanii)
 
 👉 (CC)  C009BSY3634 – Rafly Akval Caesar Fadillah 
 
-  👩‍💼[LinkedIn](https://www.linkedin.com/in/rafly-akval/)
+  👨🏾‍💼[LinkedIn](https://www.linkedin.com/in/rafly-akval/)
   
 👉 (MD) A120BSY2311 – Muhamad Fajar Nasrulloh 
 
-  👩‍💼[LinkedIn](https://www.linkedin.com/in/fajarnasrullah)
+  👨🏾‍💼[LinkedIn](https://www.linkedin.com/in/fajarnasrullah)
 
 
 # Our Paths and Documentation 📂
