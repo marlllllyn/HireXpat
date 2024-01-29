@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HireXpat</string>
+    <string name="search_job">Find your dream job</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">User</string>
+    <string name="menu_jobList">Job</string>
+    <string name="menu_notification">Notification</string>
+    <string name="nama">Oliver Sykes</string>
+    <string name="email">oliversykes@gmail.com</string>
+    <string name="back">Back</string>
+    <string name="section_category">Job Category</string>
+    <string name="section_jobRecomended">Recomended Job</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="visa">In Indonesia, we offer “LIMITED STAY VISA”, especially for expatriates. Here’s the requirements that you need to prepare:\n\n\n1. Passport\nOriginal passport with at least 6 (six) months of remaining validity and blank visa pages\n\n2. Visa Application form\nOne completed visa application form download from each embassy’s official website. \n\n3. 1 (one) recent passport-size photograph in color.\nPhotograph must be in white background and taken with digital camera with high quality color and printed on quality paper.\n\n4. A diplomatic or verbal note.\nDiplomatic or verbal note issued by related region agencies confirming the person\'s diplomatic assignment or non-diplomatic assignment. For other nationals, a similar diplomatic note from the Embassy/ Consulates. In the case of diplomatic posting, the said verbal note should also stating whether the person replaces former staff member (full name) or a new position is being formed\n\n5. Approval and Visa Recommendation Letter from Ministry of State Secretariat of the Republic of Indonesia\n\n6. Full Vaccination Certificate (Certificate of vaccination with full dose (two doses, except Janssen, Pfizer) or booster.)\n\n7. Hotel Booking Confirmation\n\n8. Flight Ticket</string>
+    <string name="apply">Apply</string>
+</resources>
